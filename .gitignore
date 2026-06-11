@@ -65,3 +65,5 @@ htmlcov/
 *.db
 *.db-wal
 *.db-shm
+
+langsmith_tut/smith/
